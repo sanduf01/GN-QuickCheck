@@ -3,6 +3,14 @@ Designed a platform for the accessibility and efficiency of Grama Niladhari serv
 
 --------------------------------------------------------------------------------
 
+🎨 Prototype 
+- [Mobile App Prototype](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- [Website Prototype](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+*(Links can be updated with actual Figma or deployment URLs)* 
+
+---
+
 📌 Problem Statement Accessing GN services is currently: 
 - Stressful and time-consuming
 - Dependent on offline communication (notice boards, word-of-mouth, phone calls)
@@ -42,14 +50,6 @@ Designed a platform for the accessibility and efficiency of Grama Niladhari serv
 5. Receives a clear checklist of required documents.
 6. Prepares everything at home.
 7. Visits GN office once, completes all tasks without stress.
-
----
-
-🎨 Prototype 
-- [Mobile App Prototype](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-- [Website Prototype](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-
-*(Links can be updated with actual Figma or deployment URLs)* 
 
 ---
 
