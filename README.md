@@ -46,8 +46,8 @@ Designed platform for accessibility and efficiency of Grama Niladhari services. 
 ---
 
 🎨 Prototype 
-- [Mobile App Prototype](#)
-- [Website Prototype](#)
+- [Mobile App Prototype]([#](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1))
+- [Website Prototype]([#](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1))
 
 *(Links can be updated with actual Figma or deployment URLs)* 
 
