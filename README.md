@@ -74,7 +74,7 @@ This project was developed as a *group project* for the University. Team members
 ## Contributors
 
 - S.D.D.N. Sudasingha  -  https://github.com/D200322
-- <br></br>
+ <br></br>
 - H.S.V. Jayarathne    -  https://github.com/sakulavishmini <br></br>
 - A.P.S.S. Fernando    -  https://github.com/sanduf01
      <br></br>
