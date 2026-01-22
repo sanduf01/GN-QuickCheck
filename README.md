@@ -1,84 +1,52 @@
-# GN-QuickCheck
-Designed a platform for the accessibility and efficiency of Grama Niladhari services. (Group Mini Project, Oct 2025)
+# GN QuickCheck - UX Design & Prototyping
 
---------------------------------------------------------------------------------
-
-🎨 Prototype 
-- [Mobile App Prototype](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-- [Website Prototype](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-
-*(Links can be updated with actual Figma or deployment URLs)* 
+*GN QuickCheck* is a digital platform designed to streamline access to Grama Niladhari (GN) services in Sri Lanka. This group project aims to reduce stress, uncertainty, and inefficiency for citizens seeking essential documents like NICs, certificates, verifications, and permits.  
 
 ---
 
-📌 Problem Statement Accessing GN services is currently: 
-- Stressful and time-consuming
-- Dependent on offline communication (notice boards, word-of-mouth, phone calls)
-- Lacking transparency about officer availability and required documents
+## Problem Statement
 
-**GN QuickCheck** solves these issues by offering: 
-- Real-time GN availability
-- Clear document checklists
-- Downloadable forms
-- Simple, accessible guidance for all citizens
+Accessing GN services has become stressful, time-consuming, and inefficient due to several challenges:
+
+- *Information Uncertainty*: Citizens often do not know the exact documents required for different services, leading to repeated visits and confusion.  
+- *Availability Uncertainty*: People are unaware of GN availability, office hours, or whether the officer is out on field duties, resulting in wasted time.  
+- *Process Anxiety & Emotional Stress*: Unclear procedures, misinformation, and long waiting times cause frustration, mental pressure, and lack of clarity.  
+- *No Unified Digital Platform*: There is no centralized online system to check GN schedules, required documents, sample forms, or service instructions in an accessible way.  
+
+The absence of real-time information and guidance directly affects citizens’ digital well-being and reduces efficiency in public administrative services.
+
+---
+
+## Solution
+
+GN QuickCheck provides a *single, user-friendly digital platform* where citizens can:  
+
+- Check GN officer availability in real-time.  
+- View required documents for different services.  
+- Access sample forms and instructions.  
+- Prepare before visiting GN offices, minimizing stress and unnecessary trips.  
+
+---
+
+## Features
+
+- Real-time GN officer availability check.  
+- Step-by-step guidance for document preparation.  
+- Centralized access to sample forms and instructions.  
+- Reduces unnecessary trips and waiting time.  
+- Enhances citizen experience and digital well-being.
   
---- 
-
-👥 Target Users The platform is designed for: 
-- Ordinary Citizens
-- Working Professionals
-- Students & Young Adults
-- Elderly Citizens & People with Disabilities
-- GN Officers
- 
 ---
 
-🛠️ Key Features 
-- ✅ Check GN officer availability (office hours, field duties, contact info)
-- ✅ View required documents for services (e.g., NIC, residence certificate, birth registration)
-- ✅ Download forms and instructions
-- ✅ Prepare documents at home to avoid repeated visits
-- ✅ Accessible design for low digital literacy and elderly users
+## Project Links
 
---- 
-
-📖 Example Scenario A mother registering her newborn: 
-1. Opens GN QuickCheck on her phone.
-2. System auto-detects her GN division.
-3. Sees officer availability (e.g., Monday, Thursday).
-4. Selects services: Birth Registration, Residence Confirmation, Child Benefit.
-5. Receives a clear checklist of required documents.
-6. Prepares everything at home.
-7. Visits GN office once, completes all tasks without stress.
+- *Figma Prototype – Mobile:* [GN QuickCheck](https://www.figma.com/proto/UANxAXZjce7K53h5paMu2C/EEI4361---GN_Quickcheck--Phone-?node-id=2-7&t=lqJ9iNeOyIXFHZFW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
+- *Figma Prototype – Web:* [GN QuickCheck](https://www.figma.com/proto/0M1Cxo4gHu21dAd2I2ux6e/EEI4361---GN_Quickcheck--Web-?node-id=8-4&p=f&t=kaHrMCk7rmkLLLlS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)  
 
 ---
 
-🔍 Evaluation 
-### Heuristic Evaluation 
-- UX/UI Designer: Suggested improvements in spacing, icons, readability.
-- HCI Researcher: Identified need for better feedback messages and error prevention.
-- GN Officer: Validated workflow accuracy and terminology.
-- Citizen User: Requested simpler wording and clearer navigation.
-- Social Service Officer: Recommended error-prevention cues for common mistakes.
+Future Enhancements
 
-### Thinking Aloud Testing 
-- Young adults: Smooth navigation, minor issues with form download visibility.
-- Parents: Suggested simpler service names.
-- Elderly citizens: Requested larger fonts and clearer icons.
-- Small business owners: Appreciated planning features.
-- Welfare beneficiaries: Needed simpler language and icons.
- 
----
-
-## 📊 Results GN QuickCheck successfully: 
-- Reduces confusion and misinformation
-- Improves efficiency and planning
-- Supports elderly and low digital literacy users
-- Enhances trust in public services
-- Encourages digital transformation in governance
-
---- 
-## 🚀 Future Enhancements 
 - Accessibility features (large fonts, icons, voice assistance)
 - Appointment scheduling
 - Real-time service updates
@@ -86,17 +54,36 @@ Designed a platform for the accessibility and efficiency of Grama Niladhari serv
 
 ---
 
-## 👨‍👩‍👧‍👦 Contributors 
-**Group No: 12** 
-- S.D.D.N. Sudasingha
-- H.S.V. Jayarathne
-- A.P.S.S. Fernando
-- G.D.L. Madhumini
-- H.M.H.M. Malshini
+## Screenshots / Images
 
---- 
-## 📅 Date 27.10.2025 
+<!-- Add your images below by placing them in the repository and linking them here -->
+![GN QuickCheck Mobile](/Images/Mobile_1.png)
+![GN QuickCheck Mobile](/Images/Mobile_2.png)
+![GN QuickCheck Mobile](/Images/Mobile_3.png)
+![GN QuickCheck Web](/Images/Web_1.png)
+![GN QuickCheck Web](/Images/Web_2.png)
 
---- 
-## 📜 License 
-This project is developed for academic purposes. You may adapt and extend it for research or educational use.
+---
+
+## Team Project
+
+This project was developed as a *group project* for the University. Team members collaborated using *Figma* for design, prototyping, and visualization of the platform.    
+
+---
+
+## Contributors
+
+- S.D.D.N. Sudasingha  -  https://github.com/D200322
+- <br></br>
+- H.S.V. Jayarathne    -  https://github.com/sakulavishmini <br></br>
+- A.P.S.S. Fernando    -  https://github.com/sanduf01
+     <br></br>
+- G.D.L. Madhumini     -  https://github.com/corelina98-bot
+      <br></br>
+- H.M.H.M. Malshini    -  https://github.com/Hari-Mal
+
+---
+
+## License
+
+This project is for *educational purposes* and learning in software design and public service improvement.
