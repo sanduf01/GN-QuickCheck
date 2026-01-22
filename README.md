@@ -57,11 +57,11 @@ Future Enhancements
 ## Screenshots / Images
 
 <!-- Add your images below by placing them in the repository and linking them here -->
-![GN QuickCheck Mobile](/Images/Mobile_1.png)
-![GN QuickCheck Mobile](/Images/Mobile_2.png)
-![GN QuickCheck Mobile](/Images/Mobile_3.png)
-![GN QuickCheck Web](/Images/Web_1.png)
-![GN QuickCheck Web](/Images/Web_2.png)
+![GN QuickCheck Mobile](/Mobile_1.png)
+![GN QuickCheck Mobile](/Mobile_2.png)
+![GN QuickCheck Mobile](/Mobile_3.png)
+![GN QuickCheck Web](/Web_1.png)
+![GN QuickCheck Web](/Web_2.png)
 
 ---
 
